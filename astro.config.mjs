@@ -3,11 +3,16 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://help.catholicoffice.com',
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Catholic Office',
+			favicon: '/images/company.ico',
+			logo: {
+				src: './src/assets/logo_new.png',
+			  },
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				// github: 'https://github.com/withastro/starlight',
 			},
 			sidebar: [
 				{
@@ -20,6 +25,10 @@ export default defineConfig({
 				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
+				},
+				{
+					label: 'Master Calendar',
+					autogenerate: { directory: 'master_calendar' },
 				},
 			],
 		}),
