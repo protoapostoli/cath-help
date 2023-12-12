@@ -16,7 +16,7 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Guides & How To\'s',
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Master Calendar', autogenerate: { directory: '/guides/master_calendar' }, },
@@ -24,6 +24,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Reference',
+					collapsed: true,
 					autogenerate: { directory: 'reference' },
 				},
 				{
