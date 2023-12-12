@@ -19,7 +19,7 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'Master Calendar', autogenerate: { directory: '/guides/master_calendar' }, },
 					],
 				},
 				{
@@ -27,8 +27,8 @@ export default defineConfig({
 					autogenerate: { directory: 'reference' },
 				},
 				{
-					label: 'Master Calendar',
-					autogenerate: { directory: 'master_calendar' },
+					label: 'Back to the App',
+					link: 'https://catholicoffice.com/dashboard',
 				},
 			],
 		}),
