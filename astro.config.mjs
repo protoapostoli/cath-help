@@ -16,6 +16,10 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
+					label: 'Getting Started',
+					autogenerate: { directory: 'getting-started' },
+				},
+				{
 					label: 'Guides & How To\'s',
 					items: [
 						// Each item here is one entry in the navigation menu.
@@ -24,7 +28,6 @@ export default defineConfig({
 				},
 				{
 					label: 'Reference',
-					collapsed: true,
 					autogenerate: { directory: 'reference' },
 				},
 				{
