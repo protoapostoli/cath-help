@@ -24,15 +24,22 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Master Calendar', autogenerate: { directory: '/guides/master_calendar' }, },
+						//{ label: 'Other Features', autogenerate: { directory: '/guides/other' }, },
+						{ label: 'User Accounts', autogenerate: { directory: '/guides/accounts' }, },
 					],
 				},
 				{
+					label: 'FAQs',
+					autogenerate: { directory: 'faqs' },
+				},
+				{
 					label: 'Reference',
+					collapsed: true,
 					autogenerate: { directory: 'reference' },
 				},
 				{
 					label: 'Back to the App',
-					link: 'https://catholicoffice.com/dashboard',
+					link: 'https://app.catholicoffice.com/dashboard',
 				},
 			],
 		}),
