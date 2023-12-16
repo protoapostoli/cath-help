@@ -7,6 +7,11 @@ description: Updates to the site.
 Most recent updates will be at the top, and then continue in descending order.
 :::
 
+## 15 December 2023
+
+ - Added the new **Reception Sick Call and Event Log** features to the site.
+ - This will keep priests and necessary staff up-to-date on events and incoming sick call requests.
+
 ## 13 December 2023
 
  - Ported the help docs to Starlight built on Astro.build.
