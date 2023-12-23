@@ -4,13 +4,13 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://help.catholicoffice.com',
+	server: {
+		host: '0.0.0.0'
+	  },
 	integrations: [
 		starlight({
 			title: 'Catholic Office',
 			favicon: '/images/company.ico',
-			server: {
-				host: '0.0.0.0'
-			  },
 			logo: {
 				src: './src/assets/logo_new.png',
 			  },
