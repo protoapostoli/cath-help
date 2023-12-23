@@ -8,6 +8,9 @@ export default defineConfig({
 		starlight({
 			title: 'Catholic Office',
 			favicon: '/images/company.ico',
+			server: {
+				host: '0.0.0.0'
+			  },
 			logo: {
 				src: './src/assets/logo_new.png',
 			  },
