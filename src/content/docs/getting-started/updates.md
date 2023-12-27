@@ -7,6 +7,10 @@ description: Updates to the site.
 Most recent updates will be at the top, and then continue in descending order.
 :::
 
+## 27 December 2023
+
+ - Fixed an issue with new event requests, added Day Light Savings (DST) support for exceptions.
+
 ## 15 December 2023
 
  - Added the new **Reception Sick Call and Event Log** features to the site.
