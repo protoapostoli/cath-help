@@ -27,7 +27,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Master Calendar', autogenerate: { directory: '/guides/master_calendar' }, },
-						//{ label: 'Other Features', autogenerate: { directory: '/guides/other' }, },
+						{ label: 'Key Log', autogenerate: { directory: '/guides/keylog' }, },
 						{ label: 'Reception', autogenerate: { directory: '/guides/reception' }, },
 						{ label: 'User Accounts', autogenerate: { directory: '/guides/accounts' }, },
 					],
