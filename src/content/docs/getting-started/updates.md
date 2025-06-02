@@ -6,6 +6,9 @@ description: Updates to the site.
 :::tip
 Most recent updates will be at the top, and then continue in descending order.
 :::
+## 2 June 2025
+
+ - Releasing soon: Key Log. Manage keys and keep track of who checks them in and out.
 
 ## 27 December 2023
 
