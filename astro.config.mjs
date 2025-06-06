@@ -27,13 +27,15 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Master Calendar', autogenerate: { directory: '/guides/master_calendar' }, },
-						{ label: 'Key Log', autogenerate: { directory: '/guides/keylog' }, },
-						{ label: 'Reception', autogenerate: { directory: '/guides/reception' }, },
-						{ label: 'User Accounts', autogenerate: { directory: '/guides/accounts' }, },
+						{ label: 'Key Log', collapsed: true, autogenerate: { directory: '/guides/keylog' }, },
+						{ label: 'Invites & RSVPs', collapsed: true, autogenerate: { directory: '/guides/rsvp_invites' }, },
+						{ label: 'Reception', collapsed: true, autogenerate: { directory: '/guides/reception' }, },
+						{ label: 'User Accounts', collapsed: true, autogenerate: { directory: '/guides/accounts' }, },
 					],
 				},
 				{
 					label: 'FAQs',
+					collapsed: true,
 					autogenerate: { directory: 'faqs' },
 				},
 				{

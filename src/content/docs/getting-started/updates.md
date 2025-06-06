@@ -6,9 +6,12 @@ description: Updates to the site.
 :::tip
 Most recent updates will be at the top, and then continue in descending order.
 :::
-## 02 June 2025
 
- - Releasing soon: Key Log. Manage keys and keep track of who checks them in and out.
+## 5 June 2025
+
+ - Released today. Two new features: Invites & RSVPs and Key Log.
+   - Invites & RSVPs send out invitations and help keep track of guests.
+   - The Key Log will allow easier tracking of keys in the front office.
 
 ## 27 December 2023
 
