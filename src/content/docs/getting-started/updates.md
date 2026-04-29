@@ -7,6 +7,25 @@ description: Updates to the site.
 Most recent updates will be at the top, and then continue in descending order.
 :::
 
+## 29 April 2026
+
+ - **New Mention & Tagging System**: Users can now mention or tag other users inside Reception and related areas. Tagged users receive in-app notifications, making collaboration faster and helping staff stay informed.
+ - **Reception Dashboard Improvements**: The Reception area received several interface upgrades, including a more modernized dashboard and improved quick links for faster navigation.
+ - **Reception Queue Enhancements**: The Reception index now displays up to 5 upcoming/pending events for quicker review and better visibility.
+ - **Recurring Event Requests (Long-Term Requests)**: Users can now submit recurring event requests for ongoing or repeating events, making it easier to request weekly, monthly, or seasonal events.
+ - **Request Type Selection Added**: When submitting requests, users can now choose between:
+   - **Short-Term Request**
+   - **Long-Term Request**
+   - This makes the approval workflow clearer and more organized.
+ - **Event Listing Improvements**: The event list has been upgraded with new tools, including:
+   - Updated display of event name, ministry, and requester
+   - Filtering by user
+   - Easier browsing and management of events
+
+## 20 October 2025
+
+ - **New Presider Scheduler**: Pastors are now able to stream-line the scheduling of priests for all their liturgies.
+
 ## 5 June 2025
 
  - Released today. Two new features: Invites & RSVPs and Key Log.
