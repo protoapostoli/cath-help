@@ -9,19 +9,10 @@ CatholicOffice allows parishes to embed live, interactive calendar views directl
 
 ## Generating Your Embed Code
 
-1. Navigate to **Calendar** > **Settings** or your Team Calendar profile.
-2. Locate the **Public Embed** section (`/calendar/embed/{teamId}/{embedCode}`).
-3. Copy the provided HTML embed snippet:
-
-```html
-<iframe 
-  src="https://app.catholicoffice.com/calendar/embed/YOUR_TEAM_ID/YOUR_EMBED_CODE" 
-  width="100%" 
-  height="750px" 
-  frameborder="0" 
-  allowtransparency="true">
-</iframe>
-```
+1. Navigate to **Calendar** > **Settings** (or your parish calendar settings).
+2. Locate the **Public Calendar Embed** card.
+3. Click **Copy Embed Code** to copy your parish's pre-configured HTML iframe snippet.
+4. Paste the snippet directly into your website builder (WordPress, Squarespace, Wix, eCatholic, etc.).
 
 ---
 

@@ -7,16 +7,16 @@ Priests and deacons can easily access and sync their scheduled liturgies without
 
 ---
 
-## 1. Direct iCal Subscription Feed
-Priests can subscribe directly on their iPhone, iPad, or Android phone:
+## 1. Direct Calendar Subscriptions
+Priests can subscribe directly on their iPhone, iPad, Mac, Android phone, or Outlook:
 1. Navigate to **Calendar** > **Subscribe** (`/calendar/subscribe`).
-2. Select **Presider Schedule Feed** (`/calendar/presider/subscription/{team_id}`).
-3. Add the feed as a subscribed calendar in Apple Calendar or Google Calendar.
+2. Select **Presider Schedule**.
+3. Click the one-click subscribe button for Apple or Google Calendar (or copy your private subscription link).
 4. Any new Mass assignments or swaps made in CatholicOffice sync to their phone in real time.
 
 ---
 
-## 2. Public / Sacristy Web Link
-Parishes can share a direct, live web link with visiting priests, sacristans, and music directors:
-`https://app.catholicoffice.com/public/presider-schedule/{team}/{code}`
-This page always shows current celebrant, concelebrant, and deacon assignments with liturgical colors and ranks.
+## 2. Shareable Sacristy & Staff Web Link
+Parishes can share a live web view with visiting priests, sacristans, and music directors without requiring them to log in:
+- In the **Presider Schedule** header, click **Copy Public Link**.
+- This page always displays the latest celebrant, concelebrant, and deacon assignments with liturgical colors and ranks.

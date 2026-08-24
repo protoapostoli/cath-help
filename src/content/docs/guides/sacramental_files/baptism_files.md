@@ -31,9 +31,8 @@ The **Baptism Files** module (`/baptism-files`) streamlines the entire baptism p
 Parishes can provide parents with a secure, self-service online registration link.
 
 ### How It Works:
-1. Copy your parish's unique **Public Baptism Registration URL**:
-   `https://app.catholicoffice.com/public/baptism/{token}`
-2. Share this link on your parish website, bulletin, or via email with inquiring parents.
+1. In your **Baptism Files** dashboard or **Baptism Settings**, click **Copy Public Registration Link** to copy your parish's unique private registration URL.
+2. Share this link on your parish website, in the church bulletin, or via email with inquiring parents.
 3. Parents can complete the digital intake form on any device:
    - Enter child, parent, and godparent details.
    - Upload digital copies of the **State Birth Certificate**.
@@ -41,7 +40,7 @@ Parishes can provide parents with a secure, self-service online registration lin
 4. Once submitted, the system automatically creates a new **Baptism File** in your parish dashboard and alerts parish staff.
 
 :::note[Secure & Parish-Specific]
-Public registration links use unique parish tokens, ensuring registrations route directly to your parish workspace.
+Public registration links use unique, private parish tokens, ensuring all registrations route directly into your parish dashboard without exposing public directories.
 :::
 
 ---

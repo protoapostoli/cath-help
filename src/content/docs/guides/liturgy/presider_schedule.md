@@ -41,12 +41,11 @@ The scheduler integrates directly with liturgical calendar feeds (USCCB and inte
 ### 1. Printable Liturgical Roster
 - Click **Print Schedule** (`/calendar/presider-schedule/print`) to generate a clean, printer-friendly roster for sacristy bulletin boards and priest vestment areas.
 
-### 2. Public Presider Web Link
-- Parishes can publish a secure, live view of presider assignments on parish websites without requiring a login:
-  `https://app.catholicoffice.com/public/presider-schedule/{team}/{code}`
-- Perfect for bulletin editors, music directors, and sacristans.
+### 2. Shareable Presider Web Link
+- Parishes can generate a secure, live view of presider assignments to share with bulletin editors, music directors, and sacristans without requiring them to log in.
+- In your Presider Schedule header, click **Copy Public Link** to copy your parish's unique private link.
 
-### 3. Personal iCal Subscriptions
-- Priests and deacons can subscribe to their assignments directly in Apple Calendar, Google Calendar, or Outlook:
-  `https://app.catholicoffice.com/calendar/presider/subscription/{team_id}`
-- Assignments sync automatically to their mobile devices in real time.
+### 3. Personal Calendar Subscriptions
+- Priests and deacons can subscribe to their assignments directly in Apple Calendar, Google Calendar, or Outlook.
+- Go to **Calendar** > **Subscribe**, select **Presider Schedule**, and click the one-click subscribe button or copy your personal subscription link.
+- Assignments sync automatically to mobile devices in real time whenever changes are made.

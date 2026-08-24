@@ -79,9 +79,7 @@ The language manager is located at the top of any Requirement Settings page (e.g
 - Click **Remove** next to any custom language.
 - *(Note: `English` is the baseline system language and cannot be removed, but it does not have to be your default language).*
 
----
-
 ### Selecting Language on Case Files & Public Forms
 
 - **Case Intake**: When staff create or edit a file, they can select the family's preferred language from your parish list.
-- **Public Online Baptism Registration**: Parents completing the public form (`/public/baptism/{token}`) can indicate their preferred language for baptismal prep classes and ceremony liturgies.
+- **Public Online Baptism Registration**: Parents completing the public online registration form can indicate their preferred language for baptismal prep classes and ceremony liturgies.

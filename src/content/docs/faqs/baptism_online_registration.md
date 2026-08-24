@@ -9,10 +9,9 @@ CatholicOffice provides each parish with a secure, self-service **Public Baptism
 
 ## Getting Your Parish Registration Link
 
-1. Go to **Baptism Files** (`/baptism-files`).
-2. Copy your parish's **Public Registration Link**:
-   `https://app.catholicoffice.com/public/baptism/{token}`
-3. Place this link on your parish website's Sacraments page, bulletin, or email it directly to parents.
+1. Go to **Baptism Files** (`/baptism-files`) or **Settings** > **Baptism Requirements**.
+2. Click **Copy Public Registration Link** to copy your parish's unique private registration URL.
+3. Place this link on your parish website's Sacraments page, church bulletin, or email it directly to parents.
 
 ---
 
