@@ -1,7 +1,14 @@
 ---
-title: Help me!
+title: How do I get more help and support?
+description: Getting support, reporting bugs, or requesting features for CatholicOffice.
 ---
 
-## How do I get more help/support?
+We're here to support you and your parish team.
 
-We offer support via email. Look in your inbox for any email we've sent to you and then reply to it with whatever issue you need help with. That's it! We'll be in touch within 24 hours.
+---
+
+## Contacting Support
+
+- **Email Support**: Reply directly to any notification email you receive from CatholicOffice, or reach out to support at `support@catholicoffice.com`.
+- **Response Time**: Our team reviews and responds to inquiries within 24 business hours.
+- **Feature Requests**: Have an idea for a feature or improvement? Let us know via email so we can consider it for future updates!

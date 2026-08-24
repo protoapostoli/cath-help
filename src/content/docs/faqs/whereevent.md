@@ -1,12 +1,29 @@
 ---
-title: Where's my event?
+title: Why don't I see my event on the calendar?
+description: Troubleshooting pending, unapproved, or filtered calendar events.
 ---
 
-We implement an approval system that allows calendar admins the ability to decide which events will be on the calendar and which won't.
-For you, this means that either your event was declined, and subsequently will not be on the calendar, or the event is still pending approval.
+If you submitted an event request and don't see it on the public calendar, check the following common reasons:
 
-## I've submitted my event, where is it?
-Your event is likely waiting to be approved by the administrators. In the mean time, you can see your event if you click on **Calendar > My Events** and then use the filters at the top right of the table (there's a button that says filters), and then changing the **Filter by Event Status** option to **All Pending Events**.
+---
 
-## I still don't see my event after using the filters.
-Then take all the filters off by clicking **Clear Filters** on the filter dropdown, and then use the search box on the top of the table on **My Events**. Your event should be there. If its not, then something went wrong and your event was not submitted successfully to the system.
+## 1. The Event Is Still Pending Approval
+All room reservations and event requests go through the parish approval workflow before appearing on the main calendar.
+
+### How to Check Pending Status:
+1. Go to **Calendar** > **My Events** (`/calendar/myevents`).
+2. Click the **Filters** button at the top right of the table.
+3. Under **Event Status**, select **All Pending Events**.
+4. Your request will be listed with its current approval stage (e.g., *Waiting on Ministry Leader* or *Waiting on Calendar Admin*).
+
+---
+
+## 2. The Event Was Declined
+If an administrator declined your request (due to a room conflict, holiday closure, etc.):
+1. Check your email for a decline notice containing the administrator's notes.
+2. In **Calendar** > **My Events**, set the status filter to **Declined Events** to view the reason.
+
+---
+
+## 3. Check Active Calendar Filters
+On the main **Parish Calendar** (`/calendar`), check if you have filtered the view by specific ministries, buildings, or rooms that exclude your event. Click **Reset Filters** to show all events.

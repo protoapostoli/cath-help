@@ -1,14 +1,22 @@
 ---
-title: How do I get my event on the calendar?
+title: How do I request an event on the calendar?
+description: How to submit an event and room reservation request in CatholicOffice.
 ---
-## How do I get an event on the Calendar?
-There's really only one way to do this. You need to submit an event request. There are three different methods to get to the event request page, you can use whichever is easiest for you.
 
- - Open up the Parish Calendar, and find the date you want your event on, and then double click on one of the empty white slots on the calendar itself.
-   - This will auto-populate the date and time for your event.
- - Click on the Request New Event button on the dashboard.
- - At the top of the page, click on Calendar > Request New Event
+Submitting an event request in CatholicOffice can be done in several easy ways:
 
-:::tip 
-Any of these options will work for you. You can then follow the instructions [here](/guides/master_calendar/request_event).
+1. **Event Request Wizard**:
+   - Click **Calendar** > **Request New Event** in the top navigation (or visit `/calendar/wizard-request`).
+   - Follow the step-by-step wizard to enter details, select dates/times, and reserve available rooms.
+
+2. **From the Calendar Grid**:
+   - Open the **Parish Calendar** (`/calendar`).
+   - Find your desired date and time slot, and double-click any open space.
+   - The system opens the event request form with the date and time pre-filled.
+
+3. **Recurring / Ongoing Events**:
+   - If your event repeats weekly, monthly, or seasonally, click **Calendar** > **Request Recurring Event** (`/calendar/request/recurring`).
+
+:::tip Approval Workflow
+Once submitted, your request is marked as **Pending** and routed to your Ministry Leader and Calendar Administrator. You will receive an automated email notification as soon as it is reviewed.
 :::
