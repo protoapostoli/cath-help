@@ -27,33 +27,34 @@ will automatically fill in the date, the start time, and the end time of your ev
 
 Instructions on filling out the various required and optional details can be found further down on this page. Please familiarize yourself with the various inputs and how to fill them out properly.  
 
-### Step Three
-**Third**, once you've filled out the details, and selected your room(s)/ministry, the last thing you have to do is click **Submit Event Request**. 
-What happens next can take a few moments, or a few days depending on your parish's approval system and when your calendar administrator is online. All events go through an approval process. They are available for approval immediately after you submit your request, but sometimes people are busy, and may take a few days before they have the time to approve your event. Don't worry, though! Your event is safely stored in the database, and you'll be notified when it is approved or denied.
+## Requesting Events with the Event Wizard
 
-:::tip[Something to Note]
-You can see your newly submitted request on the **My Events** page by clicking **Calendar > My Events** and then changing the filter to **Filter > Filter By Event Status > All Pending Events**.
-:::
+CatholicOffice features a step-by-step **Event Request Wizard** (`/calendar/wizard-request`) to simplify submitting event and room requests.
 
-## How-To Advanced
+### Using the Wizard:
+1. Navigate to **Calendar** > **Request New Event** (or click `/calendar/wizard-request`).
+2. **Step 1: Event Details**: Enter the title, ministry, public description, and expected attendance.
+3. **Step 2: Dates & Times**: Select single date or multiple dates, start time, end time, and setup/cleanup buffer times.
+4. **Step 3: Room & Facility Selection**: Search and select available parish rooms, halls, or chapels. The system prevents double-booking in real time.
+5. **Step 4: Review & Submit**: Review summary details and click **Submit Request**.
 
- - Go to http://catholicoffice.com and click on Login or Dashboard at the top right.
- - Click on '**Calendar**' with three dots next to it, it'll be immediately to the left of your name.
- - From the drop down menu, click '**Request New Event**'
- - On this screen, you'll need to fill out the following information:
-   - Name of Event (it should look similar to this, just use your own name instead: "Spiritual Direction - Fr. Andrew")
-   - Date of Event
-   - Start Time
-   - End Time
- - If you need to change the set-up and clean-up time, please click on '**Set-up/Clean-up duration**'. 
-   - This will add a buffer to the start and/or end of your event.
- - In order to add a room to the event, you need to click on "**Manage Rooms**" and then select which room(s) you need. 
-   - This can only be done after you've selected the dates/times and added set-up and clean-up.
- - On the Ministry dropdown box (this is required), you'll need to scroll down and find your ministry. It might look something like: "Pastoral Care Commission \ Spiritual Direction." Alternatively, you can use the search box to find your ministry.
- - Optionally, you can put in a public description and internal notes, and even select particular people or group to keep updated on changes to this event.
- - Once the above is all filled out, you may click "**Submit Event Request**."
+---
 
-:::note 
-Please note that submitting the form does not mean you're on the calendar, nor does it guarantee you'll get put on the calendar. This is just in lieu of the paper request forms. Whether you are approved or denied, you will be notified by email.
-:::
+## Recurring & Long-Term Requests
+
+For weekly Bible studies, monthly council meetings, or seasonal rehearsals:
+1. Click **Request Recurring Event** (`/calendar/request/recurring`).
+2. Set recurrence pattern:
+   - **Frequency**: Daily, Weekly, Bi-Weekly, Monthly (e.g., *1st Tuesday of the month*).
+   - **End Date / Repetition Count**: Specify the semester or annual end date.
+3. Select rooms and submit. The system will generate all instances and check for room conflicts across the entire series.
+
+---
+
+## What Happens After Submission?
+
+- Your request is stored safely in the database in **Pending** status.
+- The designated Ministry Leader and Parish Calendar Administrator are automatically notified.
+- You will receive an automated email notification once your request has been reviewed and approved.
+
 

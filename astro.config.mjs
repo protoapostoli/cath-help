@@ -25,12 +25,17 @@ export default defineConfig({
 				{
 					label: 'Guides & How To\'s',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Master Calendar', autogenerate: { directory: '/guides/master_calendar' }, },
-						{ label: 'Key Log', collapsed: true, autogenerate: { directory: '/guides/keylog' }, },
-						{ label: 'Invites & RSVPs', collapsed: true, autogenerate: { directory: '/guides/rsvp_invites' }, },
-						{ label: 'Reception', collapsed: true, autogenerate: { directory: '/guides/reception' }, },
-						{ label: 'User Accounts', collapsed: true, autogenerate: { directory: '/guides/accounts' }, },
+						{ label: 'Sacramental & Event Files', collapsed: false, autogenerate: { directory: 'guides/sacramental_files' } },
+						{ label: 'Finance & Accounts Receivable', collapsed: true, autogenerate: { directory: 'guides/finance' } },
+						{ label: 'Pastoral Care & Homebound', collapsed: false, autogenerate: { directory: 'guides/pastoral_care' } },
+						{ label: 'Liturgy & Mass Intentions', collapsed: true, autogenerate: { directory: 'guides/liturgy' } },
+						{ label: 'Parish Tasks (Kanban)', collapsed: true, autogenerate: { directory: 'guides/tasks' } },
+						{ label: 'Master Calendar', collapsed: true, autogenerate: { directory: 'guides/master_calendar' } },
+						{ label: 'Front Desk & Reception', collapsed: true, autogenerate: { directory: 'guides/reception' } },
+						{ label: 'Invites & RSVPs', collapsed: true, autogenerate: { directory: 'guides/rsvp_invites' } },
+						{ label: 'Key Log', collapsed: true, autogenerate: { directory: 'guides/keylog' } },
+						{ label: 'Communication & Mentions', collapsed: true, autogenerate: { directory: 'guides/communication' } },
+						{ label: 'User Accounts & Settings', collapsed: true, autogenerate: { directory: 'guides/accounts' } },
 					],
 				},
 				{

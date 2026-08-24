@@ -7,6 +7,16 @@ description: Updates to the site.
 Most recent updates will be at the top, and then continue in descending order.
 :::
 
+## August 2026
+
+- **Sacramental & Event Tracking Files**: Released dedicated tracking modules for **Marriage Files**, **Baptism Files** (including public online parent registration forms), **Quinceañera Files**, **Funeral Files**, and **Facility Rental Files**, complete with customizable requirement checklists and digital document uploads.
+- **Accounts Receivable & Debt Ledger**: Centralized tracking of parish fees, deposits, payments, and printable financial statements across all sacramental and rental files.
+- **Pastoral Care & Homebound Ministry**: Full-featured sick call emergency triage with priest/EMHC visit assignments, printable sick call cards, care facility directories, homebound visit logs, and real-time Slack channel integration.
+- **Liturgical Presider Scheduling & Mass Intentions**: Automated priest and deacon assignment scheduler with USCCB liturgical calendar sync, iCal calendar feeds, public presider web links, and Mass Intention stipend tracking.
+- **Parish Tasks & Kanban Boards**: Collaborative task management with Board (Kanban), Table, Calendar, and Timeline views, custom workflow columns, labels, and card checklists.
+- **Unified Mentions & Activity Logs**: Real-time `@mentions` notification dashboard with direct record bridges and team-wide global activity audit logs.
+- **Event Request Wizard & Public Embeds**: Modern step-by-step event submission wizard and embeddable iframe calendars for parish websites.
+
 ## 29 April 2026
 
  - **New Mention & Tagging System**: Users can now mention or tag other users inside Reception and related areas. Tagged users receive in-app notifications, making collaboration faster and helping staff stay informed.
