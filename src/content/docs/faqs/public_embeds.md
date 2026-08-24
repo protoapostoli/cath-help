@@ -25,6 +25,6 @@ You can embed a live, interactive CatholicOffice calendar on your parish website
 
 4. Paste this snippet into an **HTML Block** or **Custom Embed** widget on your website builder (WordPress, Squarespace, Wix, eCatholic, etc.).
 
-:::tip Privacy Protection
+:::tip[Privacy Protection]
 Only events flagged as **Public** will be visible on your website. Internal room booking notes and private requester contact details are never exposed.
 :::

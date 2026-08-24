@@ -17,6 +17,6 @@ Submitting an event request in CatholicOffice can be done in several easy ways:
 3. **Recurring / Ongoing Events**:
    - If your event repeats weekly, monthly, or seasonally, click **Calendar** > **Request Recurring Event** (`/calendar/request/recurring`).
 
-:::tip Approval Workflow
+:::tip[Approval Workflow]
 Once submitted, your request is marked as **Pending** and routed to your Ministry Leader and Calendar Administrator. You will receive an automated email notification as soon as it is reviewed.
 :::

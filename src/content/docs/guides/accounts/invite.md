@@ -13,6 +13,6 @@ title: Invite a New User
  
  That was easy. :)
 
- :::tip
- You must have permission from an administrator in order to invite users to join the parish.
- :::
+:::tip
+You must have permission from an administrator in order to invite users to join the parish.
+:::

@@ -9,7 +9,7 @@ The **Fee Schedule Templates** settings (`/settings/fee-templates`) allow parish
 
 ## Managing Fee Templates
 
-:::note Admin Only
+:::note[Admin Only]
 Only Team Admins or users with permission to manage parish settings can configure fee templates.
 :::
 

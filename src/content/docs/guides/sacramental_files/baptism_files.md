@@ -40,7 +40,7 @@ Parishes can provide parents with a secure, self-service online registration lin
    - Review godparent qualifications under Canon Law.
 4. Once submitted, the system automatically creates a new **Baptism File** in your parish dashboard and alerts parish staff.
 
-:::note Secure & Parish-Specific
+:::note[Secure & Parish-Specific]
 Public registration links use unique parish tokens, ensuring registrations route directly to your parish workspace.
 :::
 

@@ -9,7 +9,7 @@ The **Parish Onboarding & Migration Wizard** (`/onboarding`) helps parish admini
 
 ## Accessing the Onboarding Wizard
 
-:::note Admin Only
+:::note[Admin Only]
 The Onboarding Wizard is restricted to **Parish Team Owners** and **Parish Administrators** with permission to manage parish settings.
 :::
 

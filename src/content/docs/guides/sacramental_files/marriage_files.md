@@ -45,7 +45,7 @@ The file tracks all necessary documentation required by Canon Law and your dioce
 - **Civil Marriage License** verification.
 - **Canonical Dispensations / Permissions** (e.g., Disparity of Cult, Mixed Religion, Canonical Form).
 
-:::tip Marking Requirements
+:::tip[Marking Requirements]
 Click on any requirement item to update its status to **Completed**, upload a scanned PDF/image attachment, or add an explanatory note.
 :::
 
